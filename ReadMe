@@ -1,0 +1,18 @@
+# Clinic System - Test Project
+
+This is a test Django project for a small rural clinic. 
+
+## Purpose
+- To build a basic skeleton for managing patients, visits, diagnoses, medications, and staff accounts.
+- Intended as a learning project for a second-year computer science student.
+- Designed to be later migrated to a full production environment.
+
+## Technology
+- Python 3.x
+- Django 4.x
+- SQLite (for local testing)
+
+## Notes
+- This repository is currently for coding and testing purposes.
+- Deployment, multi-user live database, and cloud setup are out of scope for now.
+
